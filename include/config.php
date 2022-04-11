@@ -1,5 +1,5 @@
 <?php
-$host     = "localhost";    // Nama host
-$username = "root";         // Username database
-$password = "";   // Password database
-$database = "ams";   // Nama database
+$host     = "localhost";    // Localhost
+$username = "root";         // Badrussalam30
+$password = "";   // Madin12345
+$database = "ams";   // Surat keluar
